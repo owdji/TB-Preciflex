@@ -16,7 +16,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const HYT = gql`
 query getRealization {
-  realization(id: 1) {
+  realization(id: 3) {
     data {
       attributes {
         banner {

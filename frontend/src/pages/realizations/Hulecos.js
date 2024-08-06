@@ -22,7 +22,7 @@ import config from "../../config";
 
 const HULECOS = gql`
   query getRealization {
-    realization(id: 4) {
+    realization(id: 6) {
       data {
         attributes {
           banner {

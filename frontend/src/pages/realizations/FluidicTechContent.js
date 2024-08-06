@@ -18,7 +18,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const FLUIDICTECH = gql`
 query getRealization {
-  realization(id: 2) {
+  realization(id: 4) {
     data {
       attributes {
         realizationPageContent

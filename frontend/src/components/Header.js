@@ -118,7 +118,7 @@ const Header = ({ backgroundColor = "headerBackgroundWhite" }) => {
             {openDropdown === "medtech" && (
               <div className="dropdown">
                 <NavLink
-                  to="/medtech/3"
+                  to="/medtech/5"
                   className={({ isActive }) => (isActive ? "active-link" : "")}
                 >
                   Preci-Health
